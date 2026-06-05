@@ -1,2 +1,6 @@
 # rust-opengl
-gr12 comp-sci culminating
+
+### Run in your terminal
+```
+cargo run
+```

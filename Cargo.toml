@@ -1,0 +1,11 @@
+[package]
+name = "game"
+version = "0.1.0"
+edition = "2021"
+
+[dependencies]
+glutin = "0.32"
+glutin-winit = "0.5"
+winit = "0.30"
+gl = "0.14"
+nalgebra-glm = "0.18"
